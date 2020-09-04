@@ -80,7 +80,7 @@
     "lolex": "^1.4.0",
     "mocha": "^3.1.0",
     "nightwatch": "^0.9.8",
-    "node-sass": "^4.5.3",
+    "node-sass": "^4.13.1",
     "opn": "^4.0.2",
     "optimist": "^0.6.1",
     "ora": "^0.3.0",
